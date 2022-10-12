@@ -1,2 +1,2 @@
 # Get index:
-$$room_id * 15^4 + goal_y * 15^3 + goal_x * 15^2 + y * 15 + x$$
+$$room_{id} * 15^4 + y_{goal} * 15^3 + x_{goal} * 15^2 + y * 15 + x$$
